@@ -1,0 +1,19 @@
+# macOS 系统文件
+.DS_Store
+
+# Jupyter 自动生成的文件夹
+.ipynb_checkpoints/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 输出结果 / 临时模型文件
+outputs/
+*.pkl
+*.h5
+*.log
+
+# 临时数据
+*.tmp
+*.bak
